@@ -1,0 +1,24 @@
+com/example/weatherapp/BuildConfig.java
+ com.example.weatherapp.BuildConfig
+com/example/weatherapp/classes/ForecastWind.java
+ com.example.weatherapp.classes.ForecastWind
+com/example/weatherapp/classes/Weather.java
+ com.example.weatherapp.classes.Weather
+com/example/weatherapp/classes/ForecastItem.java
+ com.example.weatherapp.classes.ForecastItem
+com/example/weatherapp/classes/ForecastConditions.java
+ com.example.weatherapp.classes.ForecastConditions
+com/example/weatherapp/classes/ForecastCoord.java
+ com.example.weatherapp.classes.ForecastCoord
+com/example/weatherapp/classes/ForecastCity.java
+ com.example.weatherapp.classes.ForecastCity
+com/example/weatherapp/classes/Api.java
+ com.example.weatherapp.classes.Api
+com/example/weatherapp/classes/WeatherConditions.java
+ com.example.weatherapp.classes.WeatherConditions
+com/example/weatherapp/MainActivity.java
+ com.example.weatherapp.MainActivity
+com/example/weatherapp/classes/ForecastWeather.java
+ com.example.weatherapp.classes.ForecastWeather
+com/example/weatherapp/classes/ForecastList.java
+ com.example.weatherapp.classes.ForecastList
