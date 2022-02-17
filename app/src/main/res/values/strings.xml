@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="get_forecast">Get Forecast</string>
+    <string name="get_temp">Get Temperature</string>
+    <string name="txt_result">" "</string>
+    <string name="label">Weather Forecast</string>
+    <string name="label_city">City Name</string>
+    <string name="txt_temp">TextView</string>
+</resources>
